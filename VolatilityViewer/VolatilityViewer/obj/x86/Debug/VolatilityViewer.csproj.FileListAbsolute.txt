@@ -1,0 +1,10 @@
+C:\Users\Rubens\Documents\Visual Studio 2010\Projects\VolatilityViewer\VolatilityViewer\bin\Debug\VolatilityViewer.exe
+C:\Users\Rubens\Documents\Visual Studio 2010\Projects\VolatilityViewer\VolatilityViewer\bin\Debug\VolatilityViewer.pdb
+C:\Users\Rubens\Documents\Visual Studio 2010\Projects\VolatilityViewer\VolatilityViewer\bin\Debug\MECAI.dll
+C:\Users\Rubens\Documents\Visual Studio 2010\Projects\VolatilityViewer\VolatilityViewer\bin\Debug\MECAI.pdb
+C:\Users\Rubens\Documents\Visual Studio 2010\Projects\VolatilityViewer\VolatilityViewer\obj\x86\Debug\VolatilityViewer.csprojResolveAssemblyReference.cache
+C:\Users\Rubens\Documents\Visual Studio 2010\Projects\VolatilityViewer\VolatilityViewer\obj\x86\Debug\VolatilityViewer.Form1.resources
+C:\Users\Rubens\Documents\Visual Studio 2010\Projects\VolatilityViewer\VolatilityViewer\obj\x86\Debug\VolatilityViewer.Properties.Resources.resources
+C:\Users\Rubens\Documents\Visual Studio 2010\Projects\VolatilityViewer\VolatilityViewer\obj\x86\Debug\VolatilityViewer.csproj.GenerateResource.Cache
+C:\Users\Rubens\Documents\Visual Studio 2010\Projects\VolatilityViewer\VolatilityViewer\obj\x86\Debug\VolatilityViewer.exe
+C:\Users\Rubens\Documents\Visual Studio 2010\Projects\VolatilityViewer\VolatilityViewer\obj\x86\Debug\VolatilityViewer.pdb

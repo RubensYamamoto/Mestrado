@@ -1,0 +1,4 @@
+C:\Users\Rubens\documents\visual studio 2010\Projects\MECAI\MECAI\bin\Debug\MECAI.dll
+C:\Users\Rubens\documents\visual studio 2010\Projects\MECAI\MECAI\bin\Debug\MECAI.pdb
+C:\Users\Rubens\documents\visual studio 2010\Projects\MECAI\MECAI\obj\x86\Debug\MECAI.dll
+C:\Users\Rubens\documents\visual studio 2010\Projects\MECAI\MECAI\obj\x86\Debug\MECAI.pdb
